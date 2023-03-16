@@ -1,4 +1,5 @@
-### Hi there 👋
+### WELCOM 👋
+###### I'm Mingyuan MA
 
 - 🔷🔶 I enjoy my four years at UC Berkeley where I studied Statistics and Computer Science. 
 - 🔴⚪️ I am leaving from Cal to Harvard University to study Data Science
