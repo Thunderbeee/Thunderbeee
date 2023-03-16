@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔷🔶 I enjoy my four years at UC Berkeley where I studied Statistics and Computer Science. 
-- 🔴⚪️ I am leaving to Harvard University to study Data Science
+- 🔴⚪️ I am leaving from Cal to Harvard University to study Data Science
 - 🔭 I’m currently working on HPC lab at National University of Singapore (NUS) and BOBA lab at UC Berkeley
 - 🌱 I’m currently doing reserach on Large Models and Human-AI Collaboration on Decision Making
 
