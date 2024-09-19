@@ -10,7 +10,7 @@
   - Moonshot AI (Xinyu Zhou, Enming Yuan)
   - HPC-AI Lab (NUS) (Professor Yang You, Zangwei Zheng)
   - BOBA lab at UC Berkeley (Professor Park Sinchaisri)
-  ...
+  - ...
 
 <!--
 ### WELCOM 👋
