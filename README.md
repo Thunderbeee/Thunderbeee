@@ -1,9 +1,10 @@
 ### WELCOM 👋
 ###### I'm Mingyuan MA
 
-- 🔷🔶 I graduate from UC Berkeley with double majors in Computer Science and Statistics (magna cum laude).
+- 🔷🔶 I graduate from UC Berkeley with double majors in CS and Statistics (magna cum laude).
 - 🔴⚪️ I am now a Master student at Harvard studing Data Science.
-- 🔭 I cherished my experience at NVIDIA, Microsfot Research Asia, Moonshot AI, HPC-AI lab at National University of Singapore, BOBA lab at UC Berkeley...
+- ⬛️🟩 I cherished my experience at:
+-- NVIDIA, Microsfot Research Asia, Moonshot AI, HPC-AI lab at National University of Singapore, BOBA lab at UC Berkeley...
 
 <!--
 ### WELCOM 👋
