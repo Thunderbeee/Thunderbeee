@@ -5,7 +5,12 @@
 - 🔴⚪️ I am now a Master student at Harvard studing Data Science.
 - ⬛️🟩 I cherished my experience at:
   
-  - NVIDIA, Microsfot Research Asia, Moonshot AI, HPC-AI Lab (NUS), BOBA lab at UC Berkeley...
+  - NVIDIA (Alex Settle, Yu-Hsuan Tseng)
+  - Microsfot Research Asia (Li Lyna Zhang, Jiahang Xu, Zhenting Qi)
+  - Moonshot AI (Xinyu Zhou, Enming Yuan)
+  - HPC-AI Lab (NUS) (Professor Yang You, Zangwei Zheng)
+  - BOBA lab at UC Berkeley (Professor Park Sinchaisri)
+  ...
 
 <!--
 ### WELCOM 👋
