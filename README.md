@@ -8,8 +8,8 @@
   - NVIDIA (Alex Settle, Yu-Hsuan Tseng)
   - Microsfot Research Asia (Li Lyna Zhang, Jiahang Xu, Zhenting Qi)
   - Moonshot AI (Xinyu Zhou, Enming Yuan)
-  - HPC-AI Lab (NUS) (Professor Yang You, Zangwei Zheng)
-  - BOBA lab at UC Berkeley (Professor Park Sinchaisri)
+  - HPC-AI Lab @ NUS (Professor Yang You, Zangwei Zheng)
+  - BOBA Lab @ Berkeley (Professor Park Sinchaisri)
   - ...
 
 <!--
