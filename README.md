@@ -2,7 +2,7 @@
 ###### I'm Mingyuan MA
 
 - 🔷🔶 I graduate from UC Berkeley with double majors in CS and Statistics (magna cum laude).
-- 🔴⚪️ I am now a Master student at Harvard studying Data Science.
+- 🔴⚪️ I am now a Master's student at Harvard studying Data Science.
 - ⬛️🟩 I cherished my experience at:
   
   - NVIDIA (Alex Settle, Yu-Hsuan Tseng)
