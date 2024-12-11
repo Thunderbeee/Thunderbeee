@@ -5,7 +5,7 @@
 - 🔴⚪️ I am now a Master's student at Harvard studying Data Science.
 - ⬛️🟩 I cherished my experience at:
 
-  - SGLang (Shan Yu, Jiarong Xing, Ying Sheng, etc.)  
+  - SGLang (Shan Yu, Professor Jiarong Xing, Professor Ying Sheng, etc.)  
   - NVIDIA (Alex Settle, Yu-Hsuan Tseng)
   - Microsfot Research Asia (Li Lyna Zhang, Jiahang Xu, Zhenting Qi)
   - Nexa AI (Wei Alex Chen, Zhiyuan Zack Li)
